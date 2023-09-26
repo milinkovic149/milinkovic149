@@ -3,13 +3,13 @@
 
 <br/>
 
-🔥 I’m currently working on learning Vue.js and Php 🌱
+🔥 I’m currently working on learning **Vue.js and Php** 🌱
 
 🔥 All of my projects are available at <a href="https://github.com/milinkovic149?tab=repositories" target="blank"> this link</a> 👨‍💻
 
 🔥 You can ask me about **React (Gatsby) and Vue.js** 💬
 
-🔥 You can email me here: **milinkovic149@gmail.com** 📫
+🔥 You can email me here: milinkovic149@gmail.com 📫
 
 <h3 align="left">You also can find me here:</h3>
 <p align="left">
