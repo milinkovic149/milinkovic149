@@ -9,7 +9,7 @@
 
 🔥 You can ask me about **React (Gatsby) and Vue.js** 💬
 
-🔥 You can email me here: milinkovic149@gmail.com 📫
+🔥 You can email me here: **milinkovic149@gmail.com** 📫
 
 <h3 align="left">You also can find me here:</h3>
 <p align="left">
