@@ -3,8 +3,6 @@
 
 <br/>
 
-🔥 I’m currently working on learning **Vue.js** 🌱
-
 🔥 All of my projects are available at <a href="https://github.com/milinkovic149?tab=repositories" target="blank"> this link</a> 👨‍💻
 
 🔥 You can ask me about **React (Gatsby) and Vue.js** 💬
