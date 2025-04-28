@@ -5,7 +5,7 @@
 
 🔥 All of my projects are available at <a href="https://github.com/milinkovic149?tab=repositories" target="blank"> this link</a> 👨‍💻
 
-🔥 You can ask me about **React (Gatsby) and Vue.js** 💬
+🔥 You can ask me about **React (Gatsby/Next.js) and Vue.js** 💬
 
 🔥 You can email me here: **milinkovic149@gmail.com** 📫
 
